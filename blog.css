@@ -1,0 +1,48 @@
+#icon{
+    margin-left: 1072px;
+  
+    justify-content: flex-end;
+  }
+  #icon:hover{
+    cursor: pointer;
+    /* background: #000; */
+    transition: 1s;
+  }
+  #nav-item:hover {
+  
+    color: white !important;
+  }
+  header{
+    background-image: url(./images/pattern.jpg);
+    height: 440px;
+    
+  }
+  p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: #02d94e;
+    margin-left: 44%;
+    margin-top: 2%;
+}
+#id{
+    font-size: 2.5rem;
+        color: white;
+        margin-left: 30%;
+}
+#sec{
+    margin-left: 7%;
+}
+.card{
+    height: 821px;
+    width: 474px;
+    margin-top: 100px;
+
+}
+#p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    margin-left: 8px;
+}
+.section{
+    display: inline-block;
+}
